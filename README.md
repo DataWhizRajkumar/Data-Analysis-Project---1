@@ -1,5 +1,6 @@
 # Data-Analysis-Project---1
 This project aims to predict the sales of a product or service based on the amount of advertising spent on TV. It utilizes a linear regression model, a fundamental machine learning technique, to establish a relationship between TV advertising expenditures and sales.
+
 What the project does:
 
 This project demonstrates a simple linear regression analysis using Python and the scikit-learn library. It takes a dataset from a CSV file containing information on TV advertising budgets and corresponding sales figures. The project performs the following tasks:
